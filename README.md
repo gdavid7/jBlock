@@ -36,6 +36,9 @@ blah blah blah
 ```
 [Put other stuff here]
 
+## Common Questions
+Is this even allowed? like wtf
+
 ## Compatability
 Browser | Supported
 --------|------------
