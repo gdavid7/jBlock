@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/gdavid7/jBlock">
     <img src="https://github.com/gdavid7/jBlock/blob/main/README%20Images/jBlock.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -10,7 +10,7 @@
   <p align="center">
     Simple userscript that blocks Youtube video advertisements.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Quick Installation »</strong></a>
+    <a href="https://github.com/gdavid7/jBlock"><strong>Quick Installation »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">Report Bug</a>
